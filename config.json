@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configconnect",
+        "uuid": 432306,
+        "checksum": "z63ysh"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
